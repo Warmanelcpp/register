@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    display: flex;
+    flex-direction: row;
+}
+
+.left{
+    background-color: rgb(6, 170, 94);
+    width: 600px;
+}
+
+#signUp{
+    width: 552.95px;
+    height: 552.95px;
+}
+
+#logo{
+    padding-left: 15px;
+    color: rgb(255, 255, 255);
+    font-size: 34px;
+    font-weight: 400;
+    width: 614.4px;
+    font-family: "Cal Sans", sans-serif;
+}
+
+.right{
+    background: #1E2A38;
+    width: 100%;
+}
+
+h1{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding-top: 60px;
+    padding-left: 60px;
+    color: rgb(255, 255, 255);
+    font-size: 45px;
+    font-weight: 50;
+    width: 600x;
+    font-family: "Cal Sans", sans-serif;
+}
+
+#quote{
+    margin-top: 0;
+    margin-bottom: 1.3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+}
