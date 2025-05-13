@@ -68,13 +68,13 @@ input{
     font-family: "Cal Sans", sans-serif;
     font-size: 15px;
     font-weight: 50;
+    color: white;
 }
 
 input:focus {
   outline: none;
   box-shadow: none;
   caret-color: white;
-  color: white;
 }
 
 
